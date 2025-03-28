@@ -1,3 +1,5 @@
+![Variables & Data Types Cover](data.png)
+
 # Variables and Data Types in JavaScript
 
 This repository contains an article explaining **Variables and Data Types** in JavaScript. It covers different types of variables, their scope, and data types used in JS.
